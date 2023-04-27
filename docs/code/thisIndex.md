@@ -1,6 +1,7 @@
+`````md
 # Code 
 
- [>>INIT<<](init) | [>>FILE<<](file) | [>>THIS FILE<<](thisIndex)
+ [>>INIT<<](init) | [>>FILE<<](file)
 
  [[toc]]
 
@@ -277,7 +278,7 @@ npm install
 :::
 ## docs/code/index.md
 
-[>>THIS FILE<<](thisIndex)
+
 
 ::: details PATH
 ```txt{5}
@@ -298,3 +299,4 @@ npm install
 
 ```
 :::
+`````

@@ -21,7 +21,7 @@ npm install
 ```json
 
     "docs:dev" : "vitepress dev docs",
-    "docs:build" : "vitepress build dose",
+    "docs:build" : "vitepress build docs",
     "docs:serve" : "vitepress serve docs",
 
 ```
@@ -37,7 +37,7 @@ npm install
   "main": "index.js",
   "scripts": {
     "docs:dev" : "vitepress dev docs",
-    "docs:build" : "vitepress build dose",
+    "docs:build" : "vitepress build docs",
     "docs:serve" : "vitepress serve docs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
